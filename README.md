@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sibaram Samal</h1>
-<h3 align="center">A passionate Java Developer</h3>
+<h3 align="center">Full stack Java, Angular Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sibaramsamal&label=Profile%20views&color=0e75b6&style=flat" alt="sibaramsamal" /> </p>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/91274844/174600769-9fde8313-cab0-4603-8e6d-ecd77182cdb1.gif">
 
 
-- 🔭 I’m currently working on [E Job Portal](https://github.com/sibaramsamal/Online-Job-Portal)
+<!-- - 🔭 I’m currently working on [E Job Portal](https://github.com/sibaramsamal/Online-Job-Portal) -->
 
-- 🌱 I’m currently learning- **[Spring Boot and Micro Services](https://github.com/sibaramsamal/SpringBoot)**
+<!-- - 🌱 I’m currently learning- **[Spring Boot and Micro Services](https://github.com/sibaramsamal/SpringBoot)** -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/sibaramsamal/](https://github.com/sibaramsamal/)
 
-- 💬 Ask me about **Java J2SE, J2EE**
+- 💬 Ask me about **Java, Spring Boot**
 
 - 📫 How to reach me **sibaramsamal04@gmail.com**
 
